@@ -406,7 +406,7 @@ button:focus,
 }
 
 .main-nav .navbar-brand {
-  padding: 0;
+  padding: 10px 0;
 }
 
 .main-nav .navbar-nav .nav-item {
